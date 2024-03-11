@@ -1,4 +1,4 @@
-
+#Hola
 set datafile separator ","
 
 set title "Posición contra tiempo"
